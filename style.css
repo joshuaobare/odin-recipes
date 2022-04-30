@@ -1,0 +1,14 @@
+li,p,a{
+    font-family:monospace;
+}
+h1,h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+h1{
+    text-align:center;
+}
+body{
+    background-color: #659DBD;
+    color:white;
+}
